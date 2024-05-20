@@ -13,9 +13,9 @@ summary: "Information about me."
 
 
 
-I'm a B.A. in Economics from [Universidad de los Andes](https://uniandes.edu.co/) currently working and studying __Analytics and ML__.
+I have a B.A. in Economics from [Universidad de los Andes](https://uniandes.edu.co/) currently working and studying __Analytics and ML__.
 
-I worked as a logistics Data Analyst for Davivienda and I'm currently a Credit Risk Analyst at Banco de Bogotá.
+I worked as a Logistics Data Analyst for Davivienda and I'm currently a Credit Risk  Data Analyst at Banco de Bogotá.
 
 
 
