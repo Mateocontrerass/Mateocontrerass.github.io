@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Mateo Contreras</title>
+    <link>https://mateocontreras.onrender.com/tags/</link>
+    <description>Recent content in Tags on Mateo Contreras</description>
+    <image>
+      <title>Mateo Contreras</title>
+      <url>https://mateocontreras.onrender.com/lucky_block.png</url>
+      <link>https://mateocontreras.onrender.com/lucky_block.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Sep 2023 18:08:42 -0400</lastBuildDate><atom:link href="https://mateocontreras.onrender.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flowers</title>
+      <link>https://mateocontreras.onrender.com/tags/flowers/</link>
+      <pubDate>Fri, 01 Sep 2023 18:08:42 -0400</pubDate>
+      
+      <guid>https://mateocontreras.onrender.com/tags/flowers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Processing</title>
+      <link>https://mateocontreras.onrender.com/tags/image-processing/</link>
+      <pubDate>Fri, 01 Sep 2023 18:08:42 -0400</pubDate>
+      
+      <guid>https://mateocontreras.onrender.com/tags/image-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://mateocontreras.onrender.com/tags/python/</link>
+      <pubDate>Fri, 01 Sep 2023 18:08:42 -0400</pubDate>
+      
+      <guid>https://mateocontreras.onrender.com/tags/python/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
