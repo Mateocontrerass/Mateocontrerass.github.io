@@ -92,7 +92,7 @@ params:
     title: Mateo Contreras
     # I changed this to use HTML instead of Markdown in index_profile.html
     subtitle: "{BA. Economics, ML Enthusiast} from <a href=\"https://uniandes.edu.co\">Universidad de Los Andes</a>. <a href=\"/about\"><ins>More about me</ins></a>"
-    imageUrl: "/mee.jpeg"
+    imageUrl: "/mee.jpg"
     imageWidth: 150
     imageHeight: 150
     imageTitle: Picture of me
